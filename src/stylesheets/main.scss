@@ -32,6 +32,8 @@ body {
     > article {
       flex: 3 3 0px;
       padding-right: 1.2em;
+      margin: 5px 20px;
+      border: 1px solid rgb(137, 185, 245);
 
       > canvas { 
         width: 100%;

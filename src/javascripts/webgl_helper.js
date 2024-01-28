@@ -162,7 +162,7 @@ export class WebGLHelper {
   }
 
   /**
-   * Reset array buffers initially created by initBuffers() and and resend their data.
+   * Reset array buffers initially created by initBuffers() and resend their data.
    * 
    *  data = [{
    *    name: "attribute_name",
